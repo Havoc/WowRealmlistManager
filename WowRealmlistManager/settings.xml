@@ -1,0 +1,70 @@
+﻿<WoWRealmlistManager>
+
+  <Language>deDe</Language>
+  <Architecture>64-bit</Architecture>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>1.12.1</Version>
+    <GamePath>D:\Games\World of Warcraft\Classic</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>2.4.3</Version>
+    <GamePath>D:\Games\World of Warcraft\The Burning Crusade</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>3.3.5a</Version>
+    <GamePath>D:\Games\World of Warcraft\Wrath Of The Lich King</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>4.3.4</Version>
+    <GamePath>D:\Games\World of Warcraft\Cataclysm</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>5.4.2</Version>
+    <GamePath>D:\Games\World of Warcraft\Mists Of Pandaria</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>6.0.0</Version>
+    <GamePath>D:\Games\World of Warcraft\Warlords Of Draenor</GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>7.0.0</Version>
+    <GamePath></GamePath>
+  </Server>
+
+  <Server>
+    <Name>Localhost</Name>
+    <Website>http://127.0.0.1</Website>
+    <Address>127.0.0.1</Address>
+    <Version>8.0.0</Version>
+    <GamePath></GamePath>
+  </Server>
+  
+</WoWRealmlistManager>
